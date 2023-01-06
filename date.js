@@ -7,4 +7,3 @@ const year = date.getFullYear();
 console.log(day)
 console.log("0" + (date.getMonth() + 1))
 console.log(0 + 1);
-
